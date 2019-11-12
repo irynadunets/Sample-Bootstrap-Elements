@@ -1,0 +1,35 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  min-width: 320px;
+  color: #1d1d1d;
+}
+
+/*для адаптивности картинок*/
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+section{
+  padding: 100px;
+}
+
+h3{
+  font-style: italic;
+  font-size: 42px;
+  font-family: 'Palatino linotype','Book Antigua', serif;
+}
+
+h4{
+  font-weight: 600;
+  font-size: 44px;
+  margin-bottom: 20px;
+}
+/*--------------header-------------*/
+.main-header{
+  background: url() center no-repeat;
+  background: cover;
+  height: 100vh;
+  min-height: 600px;
+  positive: relative;
+}
